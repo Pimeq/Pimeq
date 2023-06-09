@@ -11,7 +11,9 @@
 <h3>🚀 Skills</h3>
 
 <p align="center">
-  Programming Languages | Frameworks & Libraries | Tools & Technologies | Databases | Other
+  Languages: C++, C#, js
+  Databases: MySql, MongoDB
+  Other: Network management and administration
 </p>
 
 ---

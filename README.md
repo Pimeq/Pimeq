@@ -1,16 +1,36 @@
-### Hi there 👋
+<p align="center">
+  <img src="https://github.com/your-username.png" alt="Your Name" width="200px">
+</p>
 
-<!--
-**Pimeq/Pimeq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi, I'm Pimeq! 👋</h1>
 
-Here are some ideas to get you started:
+<p align="center">
+  Welcome to my GitHub profile!
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <a href="https://twitter.com/your-username"><img src="https://img.shields.io/twitter/follow/your-username?style=social" alt="Twitter"></a>
+  <a href="https://www.linkedin.com/in/your-profile"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin" alt="LinkedIn"></a>
+</p>
+
+---
+
+<h3>🚀 Skills</h3>
+
+<p align="center">
+  Programming Languages | Frameworks & Libraries | Tools & Technologies | Databases | Other
+</p>
+
+---
+
+<h3>📈 GitHub Stats</h3>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=dark" alt="GitHub Stats">
+</p>
+
+<h3>📊 Top Languages</h3>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=dark" alt="Top Languages">
+</p>

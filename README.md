@@ -7,7 +7,6 @@
 <p align="center">
   Welcome to my GitHub profile!
 </p>
----
 
 <h3>🚀 Skills</h3>
 

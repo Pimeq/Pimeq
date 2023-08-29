@@ -12,7 +12,7 @@
 
 <p align="center">
   Languages: C++, C#, js,Python <br/>
-  Databases: MySql, MongoDB <br/>
+  Databases: MySql, MongoDB,PostgreSQL <br/>
   Other: Network management and administration <br/>
 </p>
 

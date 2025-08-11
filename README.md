@@ -8,7 +8,7 @@ Just a lil silly man
 
 | Category    | Technologies                        |
 |-------------|-------------------------------------|
-| Languages   | **C++**, **C#**, **JavaScript**, **Python** |
+| Languages   | **C++**, **C#**, **JavaScript/Typescript**, **Python** |
 | Databases   | **MySQL**, **MongoDB**, **PostgreSQL**      |
 | Others      | Network Management & Administration |
 
